@@ -1,5 +1,5 @@
 //+------------------------------------------------------------------+
-//| NDS_v14_20_LOSS_PYRAMID_COMMON_BASKET_TP.mq5                     |
+//| Institutional_MultiAsset_EA.mq5                     |
 //+------------------------------------------------------------------+
 #property strict
 #property version "14.23"
