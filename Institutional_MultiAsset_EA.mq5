@@ -1,5 +1,5 @@
 //+------------------------------------------------------------------+
-//| Institutional_MultiAsset_EA.mq5                     |
+//|       Institutional_MultiAsset_EA.mq5                            |
 //+------------------------------------------------------------------+
 #property strict
 #property version "14.23"
